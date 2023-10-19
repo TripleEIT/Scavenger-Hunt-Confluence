@@ -1,6 +1,6 @@
 # Scavenger Hunt
 
-A forge based Atlassian Scavenger Hunt
+A forge based Scavenger Hunt
 
 The content was created for the [2023 Devs Unleashed Hackathon](https://devpost.com/software/atlassian-scavenger-hunt)
 [See it on YouTube](https://youtu.be/GaE_KIgOSKU)

@@ -29,7 +29,7 @@ I was forced to learn a bunch about React development patterns in a hurry as I h
 
 Additionally, UI Kit can be restrictive at times but provides a great way to make familiar UI experiences
 
-## What's next for Atlassian Scavenger Hunt
+## What's next for the Scavenger Hunt
 There are a bunch of items I'd like to add and keep building on for the Scavenger Hunt.  After getting a couple of the below items in I'm hoping to get a listing on the Marketplace so that others can enjoy it as well.
 - Awards for Watching pages/issues/blogs
 - Awards for voting on Issues
